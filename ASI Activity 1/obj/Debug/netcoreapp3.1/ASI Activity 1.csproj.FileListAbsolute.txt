@@ -1,0 +1,18 @@
+C:\Users\kaioe\source\repos\ASI Activity 1\ASI Activity 1\obj\Debug\netcoreapp3.1\ASI Activity 1.csprojAssemblyReference.cache
+C:\Users\kaioe\source\repos\ASI Activity 1\ASI Activity 1\obj\Debug\netcoreapp3.1\staticwebassets\ASI Activity 1.StaticWebAssets.Manifest.cache
+C:\Users\kaioe\source\repos\ASI Activity 1\ASI Activity 1\obj\Debug\netcoreapp3.1\staticwebassets\ASI Activity 1.StaticWebAssets.xml
+C:\Users\kaioe\source\repos\ASI Activity 1\ASI Activity 1\obj\Debug\netcoreapp3.1\ASI Activity 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaioe\source\repos\ASI Activity 1\ASI Activity 1\obj\Debug\netcoreapp3.1\ASI Activity 1.AssemblyInfoInputs.cache
+C:\Users\kaioe\source\repos\ASI Activity 1\ASI Activity 1\obj\Debug\netcoreapp3.1\ASI Activity 1.AssemblyInfo.cs
+C:\Users\kaioe\source\repos\ASI Activity 1\ASI Activity 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kaioe\source\repos\ASI Activity 1\ASI Activity 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kaioe\source\repos\ASI Activity 1\ASI Activity 1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\kaioe\source\repos\ASI Activity 1\ASI Activity 1\bin\Debug\netcoreapp3.1\ASI Activity 1.exe
+C:\Users\kaioe\source\repos\ASI Activity 1\ASI Activity 1\bin\Debug\netcoreapp3.1\ASI Activity 1.deps.json
+C:\Users\kaioe\source\repos\ASI Activity 1\ASI Activity 1\bin\Debug\netcoreapp3.1\ASI Activity 1.runtimeconfig.json
+C:\Users\kaioe\source\repos\ASI Activity 1\ASI Activity 1\bin\Debug\netcoreapp3.1\ASI Activity 1.runtimeconfig.dev.json
+C:\Users\kaioe\source\repos\ASI Activity 1\ASI Activity 1\bin\Debug\netcoreapp3.1\ASI Activity 1.dll
+C:\Users\kaioe\source\repos\ASI Activity 1\ASI Activity 1\bin\Debug\netcoreapp3.1\ASI Activity 1.pdb
+C:\Users\kaioe\source\repos\ASI Activity 1\ASI Activity 1\obj\Debug\netcoreapp3.1\ASI Activity 1.RazorTargetAssemblyInfo.cache
+C:\Users\kaioe\source\repos\ASI Activity 1\ASI Activity 1\obj\Debug\netcoreapp3.1\ASI Activity 1.dll
+C:\Users\kaioe\source\repos\ASI Activity 1\ASI Activity 1\obj\Debug\netcoreapp3.1\ASI Activity 1.pdb
